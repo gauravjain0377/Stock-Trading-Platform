@@ -1,13 +1,13 @@
 import React from 'react';
-import Hero from './Hero';
-import Awards from './Awards';
-import Stats from './Stats';
-import Pricing from './Pricing';
-import Education from './Education';
+import Hero from './Hero.jsx';
+import Awards from './Awards.jsx';
+import Stats from './Stats.jsx';
+import Pricing from './Pricing.jsx';
+import Education from './Education.jsx';
 
-import OpenAccount from '../OpenAccount';
-import Navbar from '../Navbar';
-import Footer from '../Footer';
+import OpenAccount from '../OpenAccount.jsx';
+import Navbar from '../Navbar.jsx';
+import Footer from '../Footer.jsx';
 
 function HomePage() {
   return (
