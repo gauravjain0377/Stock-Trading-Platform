@@ -2,6 +2,7 @@ import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './index.css'
+
 import HomePage from './landing_page/home/HomePage.jsx';
 import Signup from './landing_page/signup/Signup.jsx';
 import AboutPage from './landing_page/about/AboutPage.jsx';
