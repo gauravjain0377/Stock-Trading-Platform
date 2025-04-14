@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Hero() {
+function Stats() {
   return (
     <h1>Stats</h1>
   )

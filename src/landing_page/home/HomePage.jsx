@@ -12,7 +12,7 @@ import Footer from '../Footer.jsx';
 function HomePage() {
   return (
     <>
-    <h1>Hello</h1>
+    
     <Navbar />
     <Hero />
     <Awards />
